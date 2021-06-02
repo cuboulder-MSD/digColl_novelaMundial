@@ -24,6 +24,6 @@ Please use the same link when sharing or citing the collection.
 ### Classification
 ### Related Item
 ### Identifier ARK
-### Identidier
+### Identifier
 ### Physical Location
 ### Rights
