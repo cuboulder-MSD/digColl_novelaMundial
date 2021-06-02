@@ -50,4 +50,4 @@ The institution or repository that holds the resource or where it is available: 
 ### Rights
 Information about restrictions imposed on access to a resource.
 
-Copyright and other restrictions may apply. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
+Access condition in this collection: Copyright and other restrictions may apply. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
